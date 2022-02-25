@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The challenge of R.F. Lewis Sabran of the Society of Jesus made out against the historical discourse concerning invocation of saints</title>
+            <author>Sabran, Lewis, 1652-1732.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58873</idno>
+            <idno type="STC">Wing S215</idno>
+            <idno type="STC">ESTC R28836</idno>
+            <idno type="EEBO-CITATION">10767653</idno>
+            <idno type="OCLC">ocm 10767653</idno>
+            <idno type="VID">45749</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45749)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1410:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The challenge of R.F. Lewis Sabran of the Society of Jesus made out against the historical discourse concerning invocation of saints</title>
+                  <author>Sabran, Lewis, 1652-1732.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Henry Hills,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Saints --  Cult.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:45749:1" rendition="simple:additions"/>
+            <head>The Challenge of <hi>R. F. Lewis Sabran,</hi> of the Society of JES<g ref="char:V">Ʋ</g>S, made out againſt the <hi>Hiſtorical Diſcourſe</hi> concerning <hi>Invocation of Saints.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>The Firſt Part.</head>
+               <p>AFter a tedious Expectation that hath worn out three Months, there appears an Anſwer to the Challenge I offer'd, in my Letter to a <hi>Peer of the Church of England.</hi>
+               </p>
+               <p>Of 26 Pages that relate to my Challenge, in that Work, what I intend to conſider amounts not to above 13, the reſt being made up with ſcurrilous Language, ill-natur'd Cavils, inſipid and peeviſh Taunts, and with ſome Perſonal Slanders; all this I ſhall paſs by: And tho' I could with eaſe wipe off all the Dirt which that foul Pen hath beſpatter'd me with, I ſhall wave all his diſingenu<g ref="char:EOLhyphen"/>ous Reflections upon my Perſon, in which the Public is unconcern'd, ha<g ref="char:EOLhyphen"/>ving now a Cauſe which is much dearer to me, to defend; to wit, that of <hi>the bleſſed Saints</hi> now in Glory, the favorable Effects of whoſe Inter<g ref="char:EOLhyphen"/>ceſſion we daily experience; Of the <hi>Chriſtians common Creed,</hi> which aſſerts the Communion of Saints, of the <hi>Catholic Militant Church</hi> ever united by her devout Addreſſes, to the <hi>Triumphant</hi> in Heaven; Of <hi>God's Veracity,</hi> approving by unqueſtionable Miracles, from the Infancy of the Church to this her Age, her recourſe to the bleſſed Spirits that attend the Thr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne of his Glory: Having then return'd to all his new Schemes of <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> guage, only this following Sentence of S. <hi>Hierom; That's the main ſt<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>gth</hi>
+                  <note place="margin">Apol. 3. cont. Ruff.</note> 
+                  <hi>of Herctics, that is of thy Fathers, when convinced of their treacherous Dealings, to defend themſelves by Slanders,</hi> I aſſure the Author, that I glory in the very fouleſt of thoſe which he hath deviſed againſt me, for being employ'd in ſo good a Cauſe, in which <hi>they ſhall curſe, and you will bleſs me, O Lord;</hi> And I come up to my Subject.</p>
+               <p>This Author having own'd, That if the <hi>Roman</hi> Church had not proceed<g ref="char:EOLhyphen"/>ed farther in her Devotion towards the bleſſed Saints, than the <hi>Fathers</hi> and the <hi>Catholic Church</hi> of the Fourth and Fifth Century had warranted them by their Example, he did not ſee how his Church could have divided
+<pb n="2" facs="tcp:45749:2"/>
+it ſelf from that Communion without the guilt of a cauſeleſs Schiſm. I challeng'd him to ſhew in what the Catholic Church <hi>now</hi> (as ever) in Communion with the See of <hi>Rome,</hi> had varied from thoſe Primitive Times, on this Subject of the <hi>Invocation of Saints,</hi> or to own his Congre<g ref="char:EOLhyphen"/>gation Schiſmatical as far as that Pretence colour'd the Separation. To this Challenge he pretends now to Anſwer, and to ſhew in what Points the Devotion we now pay to God's bleſſed Saints, differs from the Wor<g ref="char:EOLhyphen"/>ſhip which thoſe pureſt Ages allow'd them.</p>
+               <p>I expected to have met in the very firſt Page with the Inſtances of this Difference which I preſſed for, but he wiſely conceiv'd much Duſt was firſt to be raiſed wherewith to cloud his Readers Eyes, that ſo he might more eaſily impoſe upon them; and therefore he reſerv'd the Anſwer to my Challenge to the very laſt Leaf. Since then he ended where he was to begin, 'tis but reaſonable I ſhould begin where he ends.</p>
+               <p>He ſtates this Change and Corruption in three following Points, which he thus delivers.</p>
+               <p>The <hi>Firſt,</hi> That the Church of <hi>Rome</hi> doth uſe a <hi>direct Invocation,</hi> or for<g ref="char:EOLhyphen"/>mal Prayer to the Saints; whereas the Primitive Church us'd only ſuch Addreſſes or Requeſts as are made from one Friend to another.</p>
+               <p>The <hi>Second,</hi> Thoſe Requeſts were made at the Memories (Shrines) of thoſe Martyrs, who were believ'd to be preſent there at that time, tho' inviſible; whereas the Invocations of the Church of <hi>Rome</hi> are made to ſuch and ſuch a Saint in ten thouſand different Places, which is to attri<g ref="char:EOLhyphen"/>bute to them an <hi>Omnipreſence.</hi>
+               </p>
+               <p>The <hi>Third,</hi> Thoſe Requeſts and Interpellations to the Martyrs, were neither Commanded by the Primitive Church (whereas the Church of <hi>Rome Enjoyns</hi> them) nor authoris'd by her General or Provincial, or any other Councils, nor us'd in the public Offices of the Church. All this he ſays, and <hi>ſays it only;</hi> but I will demonſtrate his Miſtakes in each Point.</p>
+               <p>Reader, I deſire you here to obſerve what that Belief was, and thoſe Practices of the Primitive Church and Fathers which I had produced from their unqueſtionable Works, and in their own words. Theſe a<g ref="char:EOLhyphen"/>mongſt others; <hi>That whoever was in Affliction, had recourſe to the Saints In<g ref="char:EOLhyphen"/>terceſſion, that ſuch Prayers were heard, the Martyrs being the helpers of their Prayers, and moſt powerful Ambaſſadors to God; That Gifts were brought in and hung at their Shrines, in acknowledgment of miraculous Cures obtain'd; That whoever but touched the Bones, or even the Monuments of the Martyrs, believ'd himſelf ſanctified thereby; That it was held as a great Favor to take up the Duſt which lay about their Monuments, the which was kept as a thing of high eſteem; That it was deem'd by all an unexplicable happineſs to apply thoſe Relics to their Eyes, their Mouths and all their Senſes, whoſe Duſt was believ'd to caſt out Devils, and to cure Diſeaſes; That the Saints Bodies were divided amongſt ſeveral Cities, and esteem'd the Preſervers of the Inhabitants, Body and Soul; That in their Tranſlations they were carry'd by Biſhops, repoſited in Veſſels of Gold, the People making from Country to Country a Lane of conti<g ref="char:EOLhyphen"/>nual Quires ſinging the Praiſes of God, for them to paſs through; That on ſuch Occaſions, many by touching the Saints Garments were eaſed of their Infirmities, many cur'd by the very Shadows of their Bodies, that even Handkerchiefs thrown
+<pb n="3" facs="tcp:45749:2"/>
+upon their Bodies, and immediately demanded back, were bleſſed with a Vertue that made them Antidotes againſt any Diſtempers, God making thus the Duſtof his glorious Saints Bodies beneficial to all; That they fell down in Prayer before the bleſſed Virgin, implored her to free them from all their Neceſſities, from all the Temptations of the Devil, as their Reconciler, and asked her to admit their Prayers,</hi> &amp;c.</p>
+               <p>This a rigid Reformer would call a full Inventory of Popiſh Superſti<g ref="char:EOLhyphen"/>tions, this outgoes far the moſt eager Devotion of the Catholics of theſe Days towards God's bleſſed Saints; this, all this, our Anſwerer paſſes by, finding no difference in theſe Points betwixt the preſent Catholic Church, and that of Fourteen or Fifteen hundred years paſt. Now let us ſee how faithfully he repreſents the Differences he offers.</p>
+               <p>
+                  <hi>As to the Firſt,</hi> I ſay the Fathers of the Fifth and Fourth Century and upwards, offer'd, with as formal an Invocation, as humble, ſubmiſſive, and devout Prayer to the Saints in Heaven, as any that are in preſent uſe amongſt Catholics. The faireſt proof of this matter of Fact, is by plain Inſtances; take theſe few in lieu of an infinity that could be produced.</p>
+               <p>St, <hi>Athanaſius</hi> preſent in the firſt General Council, having firſt laid this<note place="margin">
+                     <hi>De Incar. verbi<g ref="char:EOLhyphen"/>apud Cent. Cent. 4. c.</hi> 4.</note> Ground for his Practice, <hi>If you worſhip the Man Chriſt, becauſe the Word of God dwells there, at the ſame time worſhip alſo the Saints, on God's account, who hath his dwelling in them.</hi> He offers this Prayer to the bleſſed Virgin Mo<g ref="char:EOLhyphen"/>ther of God: <hi>Hearken, Daughter of</hi> David <hi>and</hi> Abraham, <hi>and ſtoop thy Ears to our Prayers, and forget not thy People. We lift up our Voice to thee, re<g ref="char:EOLhyphen"/>member us, holy Virgin, which didſt remain after Childbirth a Virgin, and re<g ref="char:EOLhyphen"/>turn us for theſe inconſiderable Speeches, great Gifts, and the Riches of thy Graces, you who are full of Grace; Hail, moſt Gracious, the Lord is with thee; Intercede, O Miſtreſs, O Lady, O Queen and Mother of God.</hi> I know not what he will ſay to this Prayer, without he ſhares in the Impudence of his Brethren the <hi>Centuriators</hi> of <hi>Magdeburge,</hi> who arraign for it S. <hi>A<g ref="char:EOLhyphen"/>thanaſius,</hi> ſaying, <hi>'Tis wonderful, that ſo great a Doctor could write thus.—Theſe words breathe Idolatry.</hi>
+               </p>
+               <p>St. <hi>Cyril</hi> in his own Name, and of the whole General Council of <hi>Ephe<g ref="char:EOLhyphen"/>ſus,</hi>
+                  <note place="margin">Hom. 6. cont. Neſtorium.</note> thus Prays to the Mother of God: <hi>Hail in all our Names, holy Mother of God, precious Threſor of the whole World, ever ſhining Lamp, Crown of Vir<g ref="char:EOLhyphen"/>ginity; Hail Virgin, by whoſe Mediation the holy Trinity is glorified and ho<g ref="char:EOLhyphen"/>nor'd through the whole World; in whom Heaven exults, Angels and Archangels rejoyce, by whom the Devils are put to flight.</hi>
+               </p>
+               <p>St. <hi>Gregory Nyſſen</hi> thus Prays to St. <hi>Theodore: Martyr, uſe the liberty you</hi>
+                  <note place="margin">Orat. de S. The<g ref="char:EOLhyphen"/>odor.</note> 
+                  <hi>enjoy to ſpeak for your Fellow-Servants. You have conquer'd the World, but you have not forgotten the Paſſions and the Neceſſities our human condition is liable un<g ref="char:EOLhyphen"/>to. Ask for Peace, that theſe public Meetings may continue, that the enraged and wicked Barbarians may not plunder and deſtroy our Churches and Altars, that no prophane and impious Man tread the Holy things under foot: For we that have been preſerv'd untoucht and alive, do own our ſelves oblig'd to you for that Bleſ<g ref="char:EOLhyphen"/>ſing, and we ask your Protection and Security for the future.</hi>
+               </p>
+               <p>The holy Father S. <hi>Gregory Nazianzen</hi> Prays thus to S. <hi>Baſil: O ſacred and Divine Man, look down on us from Heaven, and either by your Prayers mortifie that Sting of the Fleſh which God hath given us for our Inſtruction, or
+<pb n="4" facs="tcp:45749:3"/>
+move us to bear it with a couragious Mind; and direct our whole Life to all that is most fitting; and when we part out of this Life, receive us there in your Ta<g ref="char:EOLhyphen"/>bernacles.</hi>
+               </p>
+               <p>I know not whether he will replyto this Prayer what his Brethren the<note place="margin">
+                     <hi>Calv. in Clyp. Dial.</hi> 8.</note> Reformed Churches of <hi>France</hi> did: <hi>I will inform you that</hi> Gregory, <hi>when he ſpoke thus, knew not what he ſaid.</hi>
+               </p>
+               <p>The ſame Father Prays thus to S. <hi>Cyprian: But you look benignly on us from Heaven, feed this holy Flock, or help him that feeds it, both by directing us as much as may be to the beſt in all other things, and by removing from us thoſe dangerous Wolves that catch at each word and ſyllable, and obtaining for us a more full and clear Light from that holy Trinity, whoſe Preſence you enjoy.</hi>
+               </p>
+               <p>The holy Biſhop <hi>Maximus</hi> thus Pray'd to S. <hi>Agnes: O moſt ſhining to the</hi>
+                  <note place="margin">Max. Taurin. de S. Agn.</note> 
+                  <hi>Eyes of Chriſt, moſt beautiful to the Eyes of the Son of God, moſt acceptable to the Angels and Archangels, WITH WHAT FERVENT PRAYER WE CAN, we beg of you, that you will vouchſafe to remember us, that he may grant us forgiveneſs of our Sins, who hath beſtowed on you the reward of your Labors.</hi>
+               </p>
+               <p>S. <hi>Hilary</hi> Biſhop of <hi>Arles,</hi> thus Prays to S. <hi>Honorius: Ever remember us</hi>
+                  <note place="margin">In vitâ S. Ho<g ref="char:EOLhyphen"/>nor.</note> 
+                  <hi>in the Preſence of that God which you attend, ſinging that new Song, and follow<g ref="char:EOLhyphen"/>ing the Lamb whether ever he goes. You are O<g ref="char:V">Ʋ</g>R PATRON, the Inter<g ref="char:EOLhyphen"/>preter of our Prayers, an acceptable and powerful Protector; preſent the Prayers of your Flock offer'd at your Monument, and obtain that in a perfect union both Biſhop and People may attain what you have ordered and delivered.</hi>
+               </p>
+               <p>
+                  <hi>Nectarius,</hi> who preceded S. <hi>Chryſostom</hi> in the Patriarchal See of <hi>Conſtan<g ref="char:EOLhyphen"/>tinople,</hi>
+                  <note place="margin">Orat. in S. The<g ref="char:EOLhyphen"/>odor.</note> frighted with the Threats of <hi>Julian,</hi> thus Prays for help to S. <hi>Theo<g ref="char:EOLhyphen"/>dore: O ſplendor of the Martyrs, and glory of the Saints; O worthy Gift of God, O unconquer'd Keeper and Defender of the Faithful, be not unmindful of our Poverty and Dejectedneſs, but vouchſafe thou always to Pray for us; nor do thou, O moſt admirable Man, neglect us aſſaulted by</hi> Julian <hi>the Enemy of our Souls; for we believe that thou doſt live after Death: Thou then who art yet alive in Chriſt, and standeſt near unto him, endeavor by thy Prayer to make him propitious unto us thy Servants.</hi>
+               </p>
+               <p>I omit the moſt fervent Prayers offer'd to the Virgin <hi>Mary</hi> frequently by S. <hi>Methodius,</hi> who ſuffer'd Martyrdom in <hi>Diocletian</hi>'s Perſecution, S. <hi>Ephrem</hi> the <hi>Syrian,</hi> S. <hi>Athanaſius,</hi> S <hi>Leo,</hi> and many others. The unque<g ref="char:EOLhyphen"/>ſtionable Inſtances which I have offer'd, being as devout <hi>Invocations,</hi> as humble and fervent Prayers, as any now extant amongſt Catholics; and moſt of them recited in the preſence of the fulleſt Congregations, to move them to make the like. I cannot omit S. <hi>Gregory Nazianzen</hi>'s Prayer to the Bleſſed Virgin, it being of the ſame mould with that part of the <hi>Hail-Mary</hi> which the Reformers ſo abhor.</p>
+               <p>
+                  <hi>O venerable Virgin, chaſt and moſt happy, hear my Voice benignly, and grant</hi>
+                  <note place="margin">In trag. chr. pat.</note> 
+                  <hi>me that which is chief of all, to wit, that departing from this Life, I may find thee to be my Patron.</hi>
+               </p>
+               <p>But leſt this Author ſhould Retrench himſelf in that hard Cramp-word <hi>Invocation,</hi> tho' I could cite him all the holy Fathers Alphabetically pra<g ref="char:EOLhyphen"/>ctiſing and recommending it in the very Term, yet becauſe I offer this Sheet to unprejudiced Readers, I conceive two or three will be a ſuffici<g ref="char:EOLhyphen"/>ent Evidence.</p>
+               <p>
+                  <pb n="5" facs="tcp:45749:3"/>St. <hi>Gregory Nazianzen</hi> I produce firſt, and this his Evidence: <hi>The Chri<g ref="char:EOLhyphen"/>ſtians</hi>
+                  <note place="margin">
+                     <hi>Orat in S. The<g ref="char:EOLhyphen"/>odor.</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>call on the Martyr as on God's Miniſter, who being INVOCATED by them, is able to impetrate for them what Favors he pleaſes.</hi>
+               </p>
+               <p>Next (tho' he hath precedency in Death) S. <hi>Baſil: The Martyr call'd by his Name, ſheweth himſelf preſent to as many as call, by his Works.</hi> He uſes the ſame words by which the Prophet <hi>Zachary</hi> expreſſes the <hi>Invocation</hi> of God, <hi>They ſhall call my Name, and I will hear them.</hi>
+               </p>
+               <p>S. <hi>Auguſtin</hi> obſerving thoſe words of <hi>Jacob</hi> bleſſing his Children, <hi>And</hi>
+                  <note place="margin">
+                     <hi>Lib. loquut. in Gen. Gen.</hi> 48. 16. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>my Name ſhall be called over them,</hi> bids us <hi>Note,</hi> that not only the word <hi>Exaudition,</hi> but alſo <hi>Invocation</hi> is uſed in reference to <hi>Men</hi> as well as to <hi>God.</hi>
+               </p>
+               <p>As for the Text <hi>How ſhall they invocated him in whom they have not believe,d</hi> I am aſhamed to rely ſo little upon the Capacity of the meaneſt of my Readers as to ſuggeſt an Anſwer. No one can Invocate God as God, who believes not in him; true: but what then? Will you infer therefore, who<g ref="char:EOLhyphen"/>ever is Invocated, is believed to be God? Then becauſe no one can love God who believes not in him, whoever loves his Neighbor, makes him a God. And indeed, ſince God is as infinitely <hi>Good</hi> as <hi>Great,</hi> and expreſly challenges that we love him with all our Heart, with all our Soul, with all our Strength, whoever pretends that an inferior Religious Worſhip or Invocation, gives to Creatures the Worſhip we owe to God, muſt equal<g ref="char:EOLhyphen"/>ly hold, that Charity to our Neighbor is injurious to God, and deprives him of the Love which we owe him.</p>
+               <p>As to his <hi>Second Difference,,</hi> 'Tis moſt falſe that Saints and Martyrs were call'd upon only where they were ſuppos'd to be preſent, tho' inviſi<g ref="char:EOLhyphen"/>bly, at their Shrines. This I prove thus unanſwerably.</p>
+               <p>S. <hi>Augustin</hi> is ſo far from this Belief, that he aſſures us of the contrary.<note place="margin">
+                     <hi>De Curâ pro Mort. c.</hi> 16.</note> 
+                  <hi>The Solution of this Queſtion is beyond the reach of my <g ref="char:V">Ʋ</g>nderſtanding, how the Martyrs help thoſe WHICH MOST CERTAINLY ARE HELP<g ref="char:EOLhyphen"/>ED BY THEM. Whether or no they be themſelves preſent at one time in ſo different places,</hi> &amp;c.</p>
+               <p>S. <hi>Gregory Nazianzen</hi> in a Sermon Preach'd before Fifty Biſhops,<note place="margin">
+                     <hi>Orat.</hi> 32.</note> teaches the contrary, aſſuring us, that not only the Martyrs who cure Diſeaſes, and put the Devils to flight, appear and beſtow Revelations, <hi>but that where their Bodies only are, the ſame Effect is bad as from their Souls, whether they be touched or worſhipped.</hi>
+               </p>
+               <p>S. <hi>Ambroſe</hi> condemns this prodigious, if not wilful Miſtake, in theſe<note place="margin">In nat. S. Naz &amp; Celſi.</note> words: <hi>Have you Invocated the Martyr,</hi> He hears you <hi>every where,</hi> who is honor'd in <hi>the Martyr, according to his Diſpenſation who weighs your Vows, and diſpenſes his Gifts; in ſo much is a nearer Preſence of the Interceſſor granted, as the Faith of the Client is more devout.</hi> In theſe words is fully expreſt the Catholic Faith on this Point, and how the charging this, with the giving to the Martyrs an Omnipreſence, can be excus'd from a black Calumny, I do not ſee.</p>
+               <p>In fine, S. <hi>Gregory the Great</hi> is of ſo oppoſite a Belief, that he holds<note place="margin">Dial. lib. 2. cap. ult.</note> 
+                  <hi>greater Miracles to be often wrought where the Saints Bodies are not, that our Mind being fixed upon God, our Faith may have a greater Merit; foraſmuch as we know they repoſe not there, and yet believe that they fail not to hear end grant our Requeſts.</hi>
+               </p>
+               <p>
+                  <pb n="6" facs="tcp:45749:4"/>But 'tis here obſervable, how the Anſwerer makes the Fathers of the firſt Ages to attribute an Omnipreſence to the Saints, by boldly aſſert<g ref="char:EOLhyphen"/>ing, that they call'd upon them only where they ſuppos'd them, tho' in<g ref="char:EOLhyphen"/>viſibly, preſent; for he cannot be ſo throughly ignorant, as not to know, that the Saints Bodies were divided into different diſtant Places, honor'd in each, and that they wrought Miracles in all; or if he be, he cites Fa<g ref="char:EOLhyphen"/>thers whom he never ſaw, who all aſſert this frequently. I will cite one Inſtance or two.</p>
+               <p>S. Greg. Naz. <hi>Truth is in ſuch Veneration, that a little Duſt, the leaſt Splin<g ref="char:EOLhyphen"/>ter</hi>
+                  <note place="margin">Jambic. de ve ritat.</note> 
+                  <hi>of their decayed Bones, a Lock of their Hair, their Cloaths, ſome Drops, tho' almoſt worn off, of their Blood, have as much Worſhip paid them as the whole Body. Nay, the calling a Place by the Martyrs Name, I know to have been of as much efficacy, as if the whole Martyr had lay'n there.</hi>
+               </p>
+               <p>Theodoret. <hi>Their Bodies are not each in their own Monument, but being di<g ref="char:EOLhyphen"/>vided</hi>
+                  <note place="margin">Serm. 8. cont. Grec.</note> 
+                  <hi>among the Cities and Villages, are by them eſteem'd the Preſervers of their Souls and Bodies, and call'd their Phyſicians, and honor'd as their Protectors and Guards, and making uſe of their Interceſſion to God, they by them obtain divine Benefits, and the divided Bodies, retain their Power entire.</hi>
+               </p>
+               <p>S. <hi>Aug. l. 2. c. 8. de Civit.</hi> rehearſes ſeveral Miracles wrought at the Relics of S. <hi>Stephen</hi> in the different Places they were honor'd at.</p>
+               <p>S. <hi>German,</hi> to whom this Iſland ow'd the Expulſion of the <hi>Pelagian</hi> He<g ref="char:EOLhyphen"/>reſie,<note place="margin">
+                     <hi>Beda Hiſt. l. 1. c.</hi> 18.</note> carry'd about him for his Protection in a Reliquary, the Relics of all the Apoſtles, and many Martyrs, and took of the Duſt that lay by S. <hi>Al<g ref="char:EOLhyphen"/>ban</hi>'s Monument: By the Interceſſion of thoſe Saints whoſe precious Duſt he had, and a touch of the Relic caſe they were in, he reſtor'd Sight to a blind Woman.</p>
+               <p>As to the <hi>Third Difference</hi> he impoſes <hi>Firſt</hi> on his Readers, when he ſays the Church of <hi>Rome Enjoyns</hi> Prayers to Saints. I defie him to ſhew any Canon of the Council of <hi>Trent,</hi> or of any other, that Commands it as an Obligation of Catholic Faith. Yet this Man wonders that we accuſe him and his Brethren of continual Miſrepreſentations. <hi>Secondly,</hi> His Aſſer<g ref="char:EOLhyphen"/>tion, that no Councils in the Primitive Church <hi>authoriſed</hi> Praying to Saints, is very falſe. I offer theſe following Proofs thereof, to which many more might be added.</p>
+               <p>The General Council of <hi>Calcedon</hi> authoriſed <hi>Invocation</hi> of Saints, by<note place="margin">
+                     <hi>Act.</hi> 21.</note> practiſing it; Theſe were the Words, and the general Voice of all thoſe Holy Biſhops there aſſembled, to the number of 630. <hi>Behold the Truth,</hi> Flavianus <hi>lives after Death, that the Martyr Pray for us.</hi> Our Letanies, to which this Anſwerer owes ſo ill a will, exceed not this Invocation.</p>
+               <p>S. <hi>Hierom</hi> tracing the Heretical Oppoſitions made to the <hi>Invocation</hi> of<note place="margin">
+                     <hi>Hier. cont. Vigil. Socrat. l.</hi> 2.</note> Saints, finds its original in <hi>Valentin</hi> the Heretic, whoſe Error <hi>Euſtathius</hi> or <hi>Eutactus</hi> renew'd in <hi>Armenia,</hi> about the time of the Firſt General Council of <hi>Nice.</hi> The Council of <hi>Gangrae</hi> in <hi>Paphlagonia</hi> depos'd him from his Epiſcopal Dignity, tho' he offer'd at ſeveral Excuſes to colour his Error, and condemn'd him and his Followers in theſe words: <hi>If any one through</hi>
+                  <note place="margin">
+                     <hi>Conc. Gangren<g ref="char:EOLhyphen"/>ſe Can.</hi> 20.</note> 
+                  <hi>Pride, as believing himſelf perfect,</hi> (that is not needing the Interceſſion of Saints) <hi>accuſes thoſe Meetings which are had at the Places where holy Martyrs repoſe, or in their Churches, or believes that ſuch Oblations as are made there ought to be ſlighted, Be he accurſed.</hi>
+               </p>
+               <p>
+                  <pb n="7" facs="tcp:45749:4"/>The Council of <hi>Laodicea,</hi> in the Year 320. four years before that of<note place="margin">
+                     <hi>Can. 6. &amp;</hi> 34.</note> 
+                  <hi>Gangrae,</hi> allows the Worſhiping of the <hi>true Martyrs of Chriſt,</hi> mentions Churches built in their Honor over their Monument, whither the Chri<g ref="char:EOLhyphen"/>ſtians reſorted.</p>
+               <p>In fine, the Fourth (uſually call'd the Fifth) Council of <hi>Carthage,</hi> in the<note place="margin">
+                     <hi>Can.</hi> 14.</note> Year 368. by the Voices of Thirty ſeven Biſhops, authoriſes the Meeting of Chriſtians, not only in Churches dedicated to Martyrs, but whereever any Monument or certain Relics of a Martyr ſhall be; and commands thoſe Altars to be demoliſhed, if of the Relics over which they are built there be not an evident certainty: which evidently proves that it was to honor the Martyrs, and to beg Favor through their Interceſſion, that the Chriſtians met at thoſe Altars.</p>
+               <p>S. <hi>Auguſtin,</hi> the beſt Witneſs for the Devotion of his Age, in his 137th Epiſtle, commends at large the Concourſe of People to the Monuments of Martyrs, there to ask miraculous Favors; and to ſome particular Saints for ſuch and ſuch peculiar Graces; to others again for different ones.</p>
+               <p>The <hi>Last Part</hi> of this third Difference, to wit, <hi>that the Interpellations of Saints were not uſed in the publick Liturgies</hi> or Maſſes is a ſlie Impoſture, if he means to inſinuate, that in the holy Maſs we uſe now adays any Prayers directed to the Saints; for the Maſs being the Chriſtian Oblation of Chriſt's Sacrifice, and Sacrifice belonging to God only as a Divine Wor<g ref="char:EOLhyphen"/>ſhip, the Catholic Church, and particularly in the latter Ages, hath been ſo cautious of giving occaſion to any Error, that not the leaſt <hi>Collect</hi> or Prayer in holy Maſs is directed to any Saint or Angel, but all to God through Chriſt, tho' he be pray'd in them to accept of the Saints Prayers for us.</p>
+               <p>If he means, that Commemorations of Saints were not us'd in the anci<g ref="char:EOLhyphen"/>ent Liturgies, or their Prayers were not craved in them, or offered to God for us, all the Liturgies extant will convince him of an Error which he could ſcarce fall into, but only pretend, to deceive others.</p>
+               <p>I ſhall not cite the Liturgies of S. <hi>Peter,</hi> S. <hi>James,</hi> S. <hi>Mark,</hi> &amp;c. becauſe that by reaſon of ſeveral Additions made to them, they are no more pro<g ref="char:EOLhyphen"/>perly theirs: I will offer only ſuch unqueſtionable Liturgies as cannot be rejected, or other Teſtimonies of the Fathers, <hi>Greek</hi> and <hi>Latin</hi> as are un<g ref="char:EOLhyphen"/>doubtedly theirs.</p>
+               <p>S. <hi>Cyril,</hi> Patriarch of <hi>Jeruſalem,</hi> bears witneſs to this Prayer in the Li<g ref="char:EOLhyphen"/>turgy.<note place="margin">
+                     <hi>Catech.</hi> 5.</note> 
+                  <hi>We Pray to thee all of us, and offer thee this Sacrifice, ſo as to make a Com<g ref="char:EOLhyphen"/>memoration alſo of thoſe who have ſlept before us, firſt of the Patriarchs, Prophets, Apoſtles, Martyrs, that GOD THRO<g ref="char:V">Ʋ</g>GH THEIR PRAYERS AND INTERCESSIONS accept of our Prayers.</hi> Where he calls the holy Maſs <hi>the unbloody Divine Worſhip, over the Victim of Propitiation.</hi>
+               </p>
+               <p>S. <hi>Baſil</hi>'s Liturgy hath this Prayer: <hi>Sanctifie our Souls and Bodies, and grant us, O moſt Holy, that we may ſerve you all the days of our Life, through the Interceſſion of the holy Mother of God, and of all the Saints which from the be<g ref="char:EOLhyphen"/>ginning have glorified you.</hi>
+               </p>
+               <p>S. <hi>Chryſoſtom</hi>'s Liturgy hath the following Prayers: <hi>In honor and me<g ref="char:EOLhyphen"/>mory of the moſt bleſſed glorious Mother of God our Lady, and ever Virgin</hi> Mary, <hi>through whoſe Interceſſion receive, O Lord, this Sacrifice on thy heavenly Altar.</hi>—
+<pb n="8" facs="tcp:45749:5"/>
+                  <hi>Viſit us, O Lord, by the Supplications of S.</hi> John <hi>the Prophet, and Precurſor, and Baptiſt, of thy holy and moſt famous Apoſtles, and of the Saint we make a Commemoration of, and of all your bleſſed Saints.</hi> There the Deacon thus ſpeaks to the People: <hi>Celebrating the Memory of the moſt holy and immaculate, moſt bleſſed Mother of God our Lady, the ever Virgin</hi> Mary, <hi>with all the Saints, let us recommend our ſelves to one anothers Prayers, and our whole Life to Chriſt our God.</hi> And the Prieſt prays thus: <hi>We humbly magnifie thee, O un<g ref="char:EOLhyphen"/>defiled Virgin, according to our bounden Duty, having obtain'd thy help, and being delivered from Evil by thy Interceſſion, and evermore defended by the Croſs and Paſſion of thy Son. Holy Mother of unſpeakable Light, we honor and magnifie thee with Angelical Hymns.</hi> Thus the Greek Liturgies.</p>
+               <p>For the Latin, S. <hi>Auguſtin</hi> aſſures us, That <hi>we do not Commemorate the</hi>
+                  <note place="margin">Tract. 84. in Joan.</note> 
+                  <hi>Saints at the holy Table, as we do others who reſt in Peace, that we may alſo Pray for thoſe, but more that they may Pray for us.</hi>
+               </p>
+               <p>
+                  <hi>Pelagius,</hi> the ſecond Predeceſſor to S. <hi>Gregory</hi> the Great, certifies, that<note place="margin">Ep. 4. Decrer. ad Epiſt. Germ. Et Gall. to. 2. CC.</note> this following Preface had been of a moſt long continuance, (<hi>diutiſſime</hi>) ever us'd-in the Latin Liturgies. <hi>We moſt humbly beg of you, that, O Eternal Shepherd, you abandon not your Flock, but by your holy Apoſtles that you conſerve it by a continual Protection, that it may be Govern'd by thoſe ſame Rectors, which as Vicars of your Action you have granted to be over it as Paſtors.</hi> To which S. <hi>Leo</hi> ſeems to allude in theſe following words: Peter <hi>now more fully and</hi>
+                  <note place="margin">
+                     <hi>Serm. 2. de an<g ref="char:EOLhyphen"/>ni. ſuae aſſumpt. Serm.</hi> 3.</note> 
+                  <hi>more powerfully do's effect thoſe things committed to him, and he performs now, and undergoes all the Offices and Cares, in him, by whom he is glorified,—never ceaſing to Pray for us.</hi>
+               </p>
+               <p>I omit many more like Inſtances, theſe being ſufficient to convince any unprepoſſeſs'd and unbiaſs'd Reader, that my Challenge is not at all An<g ref="char:EOLhyphen"/>ſwer'd by my Adverſary, but the reaſonableneſs of it evidently confirm'd; and alſo becauſe a longer Diſcourſe would over-burden the Attention of moſt Readers: on which account I ſhall refer the full view of my Adver<g ref="char:EOLhyphen"/>ſaries groſs and continual Miſtakes to another Sheet. I have ſlighted all the little Arts of Rhetoric, which are neceſſary only to a bad Cauſe, or a doubtful one. I have not endeavor'd to blacken my Adverſary, a very un<g ref="char:EOLhyphen"/>chriſtian, tho' uſual Method with thoſe of his Party, but expos'd him and Truth naked to my Reader's Judgment, to which I appeal.</p>
+            </div>
+         </div>
+         <closer>Ad Majorem Dei Gloriam.</closer>
+      </body>
+      <back>
+         <div type="colophon">
+            <head>S<g ref="char:V">Ʋ</g>PERIOR<g ref="char:V">Ʋ</g>M PERMISS<g ref="char:V">Ʋ</g>.</head>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent Majeſty, for His Houſhold and Chappel; And are to be ſold at his Printing-houſe on the Ditch-ſide in <hi>Black-Fryers.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
